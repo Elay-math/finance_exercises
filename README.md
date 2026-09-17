@@ -12,7 +12,7 @@ Each problem includes a description, solution approach, implementation, and comp
 
 | #   | Problem                                                         | Main Topics                                                    | Complexity       |
 | --- | --------------------------------------------------------------- | -------------------------------------------------------------- | ---------------- |
-| 001 | [Calculate Trading Positions](./problem-001-trading-positions/) | Hash Maps, Dictionary Comprehension, Sorting, Lambda Functions | `O(n + m log m)` |
+| 001 | [Calculate Trading Positions](./problem1/trade_positions) | Hash Maps, Dictionary Comprehension, Sorting, Lambda Functions | `O(n + m log m)` |
 | 002 | Coming soon                                                     | —                                                              | —                |
 | 003 | Coming soon                                                     | —                                                              | —                |
 
